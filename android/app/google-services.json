@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626701481322",
+    "firebase_url": "https://greenify-5b3dd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "greenify-5b3dd",
+    "storage_bucket": "greenify-5b3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626701481322:android:feec776c9b6ecaa5b1a113",
+        "android_client_info": {
+          "package_name": "com.example.farming_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626701481322-tbn1tli397mto0ldb86q3do0vkc3nlol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-omN0mvOhnnjZhE9apMhNFdq6CM_3DjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626701481322-tbn1tli397mto0ldb86q3do0vkc3nlol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
